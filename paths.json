@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
-    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
+    "/content/moncler/:/",
+    "/content/moncler/metadata.json:/metadata.json",
+    "/content/moncler/redirects.json:/redirects.json",
+    "/content/moncler/configuration.json:/configuration.json"
   ]
 }
